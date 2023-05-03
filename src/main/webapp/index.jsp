@@ -13,6 +13,12 @@
     <div class="control">
         <button type="button" onclick="locate()">Localizza</button>
         <button type="button" onclick="loadVector()">Carica Vettoriale</button>
+        <input type="text" id="query">
+        <button type="button" onclick="search()">Cerca</button>
+        <button type="button" onclick="loadRaster()">Carica Raster</button>
+        <div id="infobox">
+
+        </div>
     </div>
 </div>
 
