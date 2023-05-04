@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Prova</name>
+	<gx:CascadingStyle kml:id="__managed_style_236CDAC2B7291B98F17A">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffc06b5c</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1A989983EC291B98F17A">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffc06b5c</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0BCB3B7575291B98F17A">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1A989983EC291B98F17A</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_236CDAC2B7291B98F17A</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_09397BF84D291B985DA1">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2161&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_149D722D67291B985DA0">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2161&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0A3D177ADF291B985DA0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_149D722D67291B985DA0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_09397BF84D291B985DA1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="01E147FFA1291B97E883">
+		<name>Vesuvio</name>
+		<description><![CDATA[<div>Cratere<br></div>]]></description>
+		<LookAt>
+			<longitude>14.46031608610917</longitude>
+			<latitude>40.80361629428019</latitude>
+			<altitude>307.6963574566372</altitude>
+			<heading>4.389423525285789</heading>
+			<tilt>4.738432088938801</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>13525.172774659</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A3D177ADF291B985DA0</styleUrl>
+		<Point>
+			<coordinates>14.42565318049293,40.82101511984008,987.4921157835611</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03846CF446291B98CBCF">
+		<name>Percorso</name>
+		<description><![CDATA[<div>A3<br></div>]]></description>
+		<LookAt>
+			<longitude>14.39316393677834</longitude>
+			<latitude>40.80683477174164</latitude>
+			<altitude>306.1270835604166</altitude>
+			<heading>4.388970203043759</heading>
+			<tilt>4.731568732005978</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4266.597016582964</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BCB3B7575291B98F17A</styleUrl>
+		<LineString>
+			<coordinates>
+				14.36157750922512,40.81010635638152,109.2032699610776 14.36496275400178,40.8069796352025,122.6721501254248 14.36820938108275,40.80262733574995,106.3005924998733 14.37077971728102,40.79977947672168,110.1750372231912 14.37267448475652,40.79752864652458,112.4446300519016 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

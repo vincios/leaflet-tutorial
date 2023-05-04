@@ -16,6 +16,9 @@
         <input type="text" id="query">
         <button type="button" onclick="search()">Cerca</button>
         <button type="button" onclick="loadRaster()">Carica Raster</button>
+        <button type="button" onclick="loadKML()">Carica KML</button>
+        <button type="button" onclick="heatmap()">Heatmap</button>
+
         <div id="infobox">
 
         </div>
@@ -24,6 +27,9 @@
 
 <script src="https://code.jquery.com/jquery-3.6.4.js" integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
 <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js" integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+<script src="js/L.KML.js" type="application/javascript"></script>
+<script src="js/leaflet-heat.js" type="application/javascript"></script>
+
 <script type="application/javascript" src="js/index.js"></script>
 </body>
 </html>
